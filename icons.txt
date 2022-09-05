@@ -1,0 +1,14 @@
+circle-plus: <i class="fa-solid fa-circle-plus"></i>
+
+세모 화살표
+down: <i class="fa-solid fa-caret-down"></i>
+
+< >
+right: <i class="fa-solid fa-chevron-right"></i>
+left: <i class="fa-solid fa-chevron-left"></i>
+down: <i class="fa-solid fa-chevron-down"></i>
+up: <i class="fa-solid fa-chevron-up"></i>
+
+frog:<i class="fa-solid fa-frog"></i>
+
+setting:<i class="fa-solid fa-gear"></i>
