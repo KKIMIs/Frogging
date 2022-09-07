@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../frogging-view"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Frogging"
+  }
+}

@@ -12,3 +12,6 @@ up: <i class="fa-solid fa-chevron-up"></i>
 frog:<i class="fa-solid fa-frog"></i>
 
 setting:<i class="fa-solid fa-gear"></i>
+
+circle: <i class="fa-solid fa-circle"></i>
+glass:<i class="fa-solid fa-magnifying-glass"></i>
